@@ -8,5 +8,6 @@ int main()
 	std::cout << "Input name: ";
 	std::cin >> name;
 
+	//Output
 	std::cout << "Hello world from " + name << std::endl;
 }

@@ -4,7 +4,7 @@ int main()
 {
 	std::string name;
 
-	//Input name
+	//Input
 	std::cout << "Input name: ";
 	std::cin >> name;
 
